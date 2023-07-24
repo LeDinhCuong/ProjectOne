@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="175dp"
+    android:background="#E4FF0000">
+    <ImageView
+        android:layout_marginTop="30dp"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginLeft="10dp"
+        android:src="@mipmap/ic_moto" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/font_title_header"
+            android:textColor="#FFFFFF"
+            android:text="Xin Chào: "
+            android:textSize="35sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/txtTen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/font_title_header"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"/>
+    </LinearLayout>
+</LinearLayout>

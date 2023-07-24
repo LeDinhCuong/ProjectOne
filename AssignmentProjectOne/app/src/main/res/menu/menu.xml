@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mQLHoaDon"
+        android:title="Hóa đơn"
+        android:icon="@drawable/ic_invoice"/>
+    <item android:id="@+id/mQLHangXe"
+        android:title="Quản lý hãng xe"
+        android:icon="@drawable/ic_motorcycle"/>
+    <item android:id="@+id/mQLXe"
+        android:title="Quản lý xe"
+        android:icon="@drawable/ic_motorcycle2"/>
+    <item android:id="@+id/mQLKhachHang"
+        android:title="Khách hàng"
+        android:icon="@drawable/ic_person"/>
+    <item android:title="Thống kê">
+        <menu>
+            <item android:id="@+id/mTop10"
+                android:title="Top 10 xe bán chạy nhất"
+                android:icon="@drawable/ic_thongke_top10"/>
+            <item android:id="@+id/mDoanhThu"
+                android:title="Doanh thu"
+                android:icon="@drawable/ic_thongke_doanhthu"/>
+        </menu>
+    </item>
+    <item android:title="Người dùng">
+        <menu>
+            <item android:id="@+id/mNguoiDung"
+                android:title="Quản lý tài khoản"
+                android:icon="@drawable/ic_people"/>
+            <item android:id="@+id/mDoiMatKhau"
+                android:title="Đổi mật khẩu"
+                android:icon="@drawable/ic_key"/>
+            <item android:id="@+id/mThoat"
+                android:title="Thoát"
+                android:icon="@drawable/ic_exit"/>
+        </menu>
+    </item>
+
+</menu>

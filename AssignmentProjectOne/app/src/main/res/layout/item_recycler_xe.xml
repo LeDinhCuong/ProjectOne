@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:foreground="?attr/selectableItemBackgroundBorderless"
+    android:id="@+id/cvUpdateXe">
+    <ImageView
+        android:id="@+id/ivDeleteXe"
+        android:layout_margin="5dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="end"
+        android:src="@drawable/ic_close"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:orientation="vertical"
+        android:background="@drawable/bg_boder_red">
+            <TextView
+                android:id="@+id/txtMaXe"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/main"
+                android:textSize="16dp"
+                android:textStyle="bold"
+                android:padding="3dp" />
+
+            <TextView
+                android:id="@+id/txtTenXe"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:padding="3dp"/>
+
+            <TextView
+                android:id="@+id/txtTenHang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:padding="3dp"/>
+
+            <TextView
+                android:id="@+id/txtGiaBan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:padding="3dp"/>
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

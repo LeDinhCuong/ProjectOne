@@ -1,0 +1,121 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/bg_boder_red.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/bg_boder_teal.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/bg_btn_red_teal.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/bg_color_red_teal.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/bg_tv_red_teal.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/bg_white_corner_16.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/btn_custom.xml" value="0.111" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/card_custom.xml" value="0.12" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/dialog_color.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/dialog_draft.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/edit_custom.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/edt_custom.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_moto_background.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_motorcycle.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_motorcycle2.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_people.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_thongke_doanhthu.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_thongke_top10.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/textinputlayout_custom.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/font/TitleHeader.xml" value="0.12407407407407407" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/font/amiri_bold.xml" value="0.18333333333333332" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/font/big_shoulders_stencil_text_medium.xml" value="0.18333333333333332" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/font/bubbler_one.xml" value="0.18333333333333332" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/font/geo_italic.xml" value="0.18333333333333332" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/font/girassol.xml" value="0.18333333333333332" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/font/title_header.xml" value="0.1259259259259259" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/font/yesteryear.xml" value="0.22" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout-land/item_recycler_xe.xml" value="0.19114583333333332" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout-sw600dp/item_recycler_xe.xml" value="0.134765625" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/a.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/activity_hello_screen.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/activity_home.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_add_hangxe.xml" value="0.22" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_add_hoadon.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_add_khachhang.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_add_nguoidung.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_add_nhanvien.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_add_xe.xml" value="0.22" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_doimk.xml" value="0.16666666666666666" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_draft.xml" value="0.5" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_updata_xe.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_update_hangxe.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_update_hoadon.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_update_khachhang.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_update_nhanvien.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_update_xe.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_qlcuahang.xml" value="0.1367419738406659" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_qlhangxe.xml" value="0.22" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_qlhoadon.xml" value="0.3333333333333333" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_qlkhachang.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_qlnhanvien.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_qlxe.xml" value="0.3333333333333333" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_thongkedoanhthu.xml" value="0.3333333333333333" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_thongketop10.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/header_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/item_recycler_hangxe.xml" value="0.22" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/item_recycler_hoadon.xml" value="0.2822085889570552" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/item_recycler_khachhang.xml" value="0.33043478260869563" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/item_recycler_nhanvien.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/item_recycler_top10.xml" value="0.20642201834862386" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/item_recycler_xe.xml" value="0.22" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/qq.xml" value="0.1796875" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/menu/menu.xml" value="0.23937007874015748" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/mipmap-anydpi-v26/ic_moto.xml" value="0.1" />
+        <entry key="..\:/Information Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/mipmap-anydpi-v26/ic_moto_round.xml" value="0.1" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/bg_boder_teal.xml" value="0.103" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/bg_tv_red_teal.xml" value="0.103" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_add.xml" value="0.103" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_delete.xml" value="0.103" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_exit.xml" value="0.103" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_invoice.xml" value="0.103" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/drawable/ic_search.xml" value="0.103" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/font/font_title_header.xml" value="0.19074074074074074" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_add_hangxe.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_add_hoadon.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_add_nguoidung.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_add_xe.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_update_hangxe.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_update_nguoidung.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/dialog_update_xe.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_qlhangxe.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_qlhoadon.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_qlkhachang.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_qlnguoidung.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_qlxe.xml" value="0.22" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_thongkedoanhthu.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/fragment_thongketop10.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/item_recycler_hangxe.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/item_recycler_hoadon.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/item_recycler_khachhang.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/item_recycler_nguoidung.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/item_recycler_top10.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/layout/item_recycler_xe.xml" value="0.1796875" />
+        <entry key="..\:/Information_Technology/Project1/Assignment/AssignmentProjectOne/app/src/main/res/menu/menu.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

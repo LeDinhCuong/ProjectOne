@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/color_extra</item>
+        <item>@font/font_title_header</item>
+        <item>@font/passero_one</item>
+    </array>
+</resources>

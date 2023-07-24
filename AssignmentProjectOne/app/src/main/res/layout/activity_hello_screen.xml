@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HelloScreen"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="W E L C O M E  T O  M Y  S T O R E"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:layout_marginTop="80dp"
+        android:textColor="@color/main"
+        android:textStyle="bold"
+        android:fontFamily="@font/font_title_header"/>
+    <ImageView
+        android:id="@+id/ivHelloSceen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@mipmap/hlloscreen"/>
+
+</LinearLayout>

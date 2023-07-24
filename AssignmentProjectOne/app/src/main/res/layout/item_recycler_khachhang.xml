@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cvUpdateKH"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    app:cardCornerRadius="10dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?attr/selectableItemBackgroundBorderless">
+
+    <ImageView
+        android:id="@+id/ivDeleteKH"
+        android:layout_width="27dp"
+        android:layout_height="27dp"
+        android:layout_gravity="end"
+        android:layout_margin="5dp"
+        android:src="@drawable/ic_close" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_boder_red"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/txtMaKH"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/main"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            android:padding="3dp"/>
+
+        <TextView
+            android:id="@+id/txtTenKH"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:padding="3dp"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/txtDiaChi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:padding="3dp"
+            android:textColor="@color/black"/>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
